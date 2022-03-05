@@ -2,5 +2,4 @@
 Class 3 case study
 
 
-
-Sample (Matt)
+Scott's Sample
